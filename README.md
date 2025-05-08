@@ -41,3 +41,8 @@ Datos almacenado en firebase:
  
 ![image](https://github.com/user-attachments/assets/c9f402d7-e4f7-45e8-be61-0a8d24e067e6)
 
+PDF con capturas: 
+
+[PruebaMovil-MichelleSuarez.pdf](https://github.com/user-attachments/files/20110909/PruebaMovil-MichelleSuarez.pdf)
+
+
